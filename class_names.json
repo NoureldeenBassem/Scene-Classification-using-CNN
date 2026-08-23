@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "buildings",
+    "forest",
+    "glacier",
+    "mountain",
+    "sea",
+    "street"
+  ],
+  "img_size": [
+    224,
+    224
+  ]
+}
