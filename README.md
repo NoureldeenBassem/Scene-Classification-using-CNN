@@ -6,6 +6,8 @@ dataset and deployed as a Streamlit app.
 
 **93.0% accuracy** and **0.932 macro F1** on 3000 held out test photos.
 
+**▶️ Try it live:** https://scene-classification-using-cnn-2f5pzdhy2it8yqsbfdwchl.streamlit.app/
+
 **Author:** Eng. Noureldin Bassem Mohamed
 
 ## The problem

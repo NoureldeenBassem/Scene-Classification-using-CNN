@@ -37,7 +37,7 @@ another point of accuracy.
 on a held out test set with per class metrics and a confusion matrix, and deployed with Streamlit.
 
 Code 👉 https://github.com/NoureldeenBassem/Scene-Classification-using-CNN
-Try it 👉 ___
+Try it 👉 https://scene-classification-using-cnn-2f5pzdhy2it8yqsbfdwchl.streamlit.app/
 
 Feedback is very welcome, especially if you have worked with classes that overlap this much.
 
